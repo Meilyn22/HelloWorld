@@ -1,10 +1,9 @@
 # Overview
 
-This is a simple Hello World program. I created this program to showcase the integration of Visual Studio Code, Github and Python.
+This is a simple program that prints Hello World to the terminal and counts from 1 to 10. I created this program to showcase the integration of Visual Studio Code, Github and Python. I also displayed how the for loop works. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Below is a video of how this program works.
+[Software Demo Video](https://youtu.be/tu9aDXMw5uE)
 
 # Development Environment
 
@@ -13,7 +12,7 @@ This is a simple Hello World program. I created this program to showcase the int
 * Visual Studio Code
 * Git / Github
 
-I used Python 3.9.7 64-bit to create this program.
+I used Python 3.10.0 64-bit to create this program.
 
 # Useful Websites
 
